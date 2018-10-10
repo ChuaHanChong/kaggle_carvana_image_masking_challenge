@@ -3,8 +3,6 @@
 model training workflow <br />
 #### model_weights: 
 model weights <br />
-#### test: 
-result submission workflow
 #### Model Documentation
 Detail of model
 
